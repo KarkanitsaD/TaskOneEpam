@@ -120,3 +120,175 @@
 14:30:03.916 [main] INFO  Models.Flat - User try add socket
 14:30:03.916 [main] INFO  Models.Flat - User add socket
 14:30:03.916 [main] INFO  Models.Flat - User try to remove socket by index
+20:10:05.369 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Iron
+20:10:05.372 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Fridge
+20:10:05.373 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.LEDStripLight
+20:10:05.373 [main] INFO  Models.Flat - User try to add new appliance
+20:10:05.373 [main] INFO  Models.Flat - User add new appliance to flat
+20:10:05.373 [main] INFO  Models.Flat - User try to add new appliance
+20:10:05.373 [main] INFO  Models.Flat - User add new appliance to flat
+20:10:05.373 [main] INFO  Models.Flat - User try to add new appliance
+20:10:05.373 [main] INFO  Models.Flat - User add new appliance to flat
+20:10:05.374 [main] INFO  Models.Flat - User try add socket
+20:10:05.374 [main] INFO  Models.Flat - User add socket
+20:10:05.374 [main] INFO  Models.Flat - User try add socket
+20:10:05.374 [main] INFO  Models.Flat - User add socket
+20:10:05.374 [main] INFO  Models.Flat - User try add socket
+20:10:05.374 [main] INFO  Models.Flat - User add socket
+20:10:05.374 [main] INFO  Models.Flat - User try add socket
+20:10:05.374 [main] INFO  Models.Flat - User add socket
+20:10:05.375 [main] INFO  Models.Flat - User try add socket
+20:10:05.375 [main] INFO  Models.Flat - User add socket
+20:10:05.375 [main] INFO  Models.Flat - User try add socket
+20:10:05.375 [main] INFO  Models.Flat - User add socket
+20:10:05.375 [main] INFO  Models.Flat - User try add socket
+20:10:05.375 [main] INFO  Models.Flat - User add socket
+20:10:05.376 [main] INFO  Models.Flat - User try to connect appliance and socket
+20:10:05.376 [main] INFO  Models.Abstractions.ElectricalAppliance - Try to connect class Models.LEDStripLight to socket
+20:10:05.376 [main] INFO  Models.Socket - Try to set electrical appliance
+20:10:05.377 [main] INFO  Models.Flat - User try to connect appliance and socket
+20:10:05.377 [main] INFO  Models.Abstractions.ElectricalAppliance - Try to connect class Models.Fridge to socket
+20:11:53.360 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Iron
+20:11:53.362 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Fridge
+20:11:53.362 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.LEDStripLight
+20:11:53.363 [main] INFO  Models.Flat - User try to add new appliance
+20:11:53.363 [main] INFO  Models.Flat - User add new appliance to flat
+20:11:53.363 [main] INFO  Models.Flat - User try to add new appliance
+20:11:53.363 [main] INFO  Models.Flat - User add new appliance to flat
+20:11:53.363 [main] INFO  Models.Flat - User try to add new appliance
+20:11:53.363 [main] INFO  Models.Flat - User add new appliance to flat
+20:11:53.364 [main] INFO  Models.Flat - User try add socket
+20:11:53.364 [main] INFO  Models.Flat - User add socket
+20:11:53.364 [main] INFO  Models.Flat - User try add socket
+20:11:53.364 [main] INFO  Models.Flat - User add socket
+20:11:53.364 [main] INFO  Models.Flat - User try add socket
+20:11:53.364 [main] INFO  Models.Flat - User add socket
+20:11:53.364 [main] INFO  Models.Flat - User try add socket
+20:11:53.364 [main] INFO  Models.Flat - User add socket
+20:11:53.364 [main] INFO  Models.Flat - User try add socket
+20:11:53.364 [main] INFO  Models.Flat - User add socket
+20:11:53.364 [main] INFO  Models.Flat - User try add socket
+20:11:53.365 [main] INFO  Models.Flat - User add socket
+20:11:53.365 [main] INFO  Models.Flat - User try add socket
+20:11:53.365 [main] INFO  Models.Flat - User add socket
+20:11:53.365 [main] INFO  Models.Flat - User sort appliances
+20:12:04.532 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Iron
+20:12:04.534 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Fridge
+20:12:04.534 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.LEDStripLight
+20:12:04.536 [main] INFO  Models.Flat - User try to add new appliance
+20:12:04.536 [main] INFO  Models.Flat - User add new appliance to flat
+20:12:04.536 [main] INFO  Models.Flat - User try to add new appliance
+20:12:04.536 [main] INFO  Models.Flat - User add new appliance to flat
+20:12:04.536 [main] INFO  Models.Flat - User try to add new appliance
+20:12:04.536 [main] INFO  Models.Flat - User add new appliance to flat
+20:12:04.537 [main] INFO  Models.Flat - User try add socket
+20:12:04.537 [main] INFO  Models.Flat - User add socket
+20:12:04.537 [main] INFO  Models.Flat - User try add socket
+20:12:04.537 [main] INFO  Models.Flat - User add socket
+20:12:04.537 [main] INFO  Models.Flat - User try add socket
+20:12:04.537 [main] INFO  Models.Flat - User add socket
+20:12:04.537 [main] INFO  Models.Flat - User try add socket
+20:12:04.537 [main] INFO  Models.Flat - User add socket
+20:12:04.537 [main] INFO  Models.Flat - User try add socket
+20:12:04.537 [main] INFO  Models.Flat - User add socket
+20:12:04.537 [main] INFO  Models.Flat - User try add socket
+20:12:04.537 [main] INFO  Models.Flat - User add socket
+20:12:04.537 [main] INFO  Models.Flat - User try add socket
+20:12:04.537 [main] INFO  Models.Flat - User add socket
+20:12:04.538 [main] INFO  Models.Flat - User sort appliances
+20:12:40.769 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Iron
+20:12:40.770 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Fridge
+20:12:40.772 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.LEDStripLight
+20:12:40.772 [main] INFO  Models.Flat - User try to add new appliance
+20:12:40.772 [main] INFO  Models.Flat - User add new appliance to flat
+20:12:40.772 [main] INFO  Models.Flat - User try to add new appliance
+20:12:40.772 [main] INFO  Models.Flat - User add new appliance to flat
+20:12:40.772 [main] INFO  Models.Flat - User try to add new appliance
+20:12:40.772 [main] INFO  Models.Flat - User add new appliance to flat
+20:12:40.773 [main] INFO  Models.Flat - User try add socket
+20:12:40.773 [main] INFO  Models.Flat - User add socket
+20:12:40.773 [main] INFO  Models.Flat - User try add socket
+20:12:40.773 [main] INFO  Models.Flat - User add socket
+20:12:40.773 [main] INFO  Models.Flat - User try add socket
+20:12:40.773 [main] INFO  Models.Flat - User add socket
+20:12:40.773 [main] INFO  Models.Flat - User try add socket
+20:12:40.773 [main] INFO  Models.Flat - User add socket
+20:12:40.773 [main] INFO  Models.Flat - User try add socket
+20:12:40.773 [main] INFO  Models.Flat - User add socket
+20:12:40.773 [main] INFO  Models.Flat - User try add socket
+20:12:40.773 [main] INFO  Models.Flat - User add socket
+20:12:40.774 [main] INFO  Models.Flat - User try add socket
+20:12:40.774 [main] INFO  Models.Flat - User add socket
+20:12:40.774 [main] INFO  Models.Flat - User sort appliances
+20:13:50.778 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Iron
+20:13:50.781 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Fridge
+20:13:50.781 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.LEDStripLight
+20:13:50.782 [main] INFO  Models.Flat - User try to add new appliance
+20:13:50.782 [main] INFO  Models.Flat - User add new appliance to flat
+20:13:50.782 [main] INFO  Models.Flat - User try to add new appliance
+20:13:50.782 [main] INFO  Models.Flat - User add new appliance to flat
+20:13:50.782 [main] INFO  Models.Flat - User try to add new appliance
+20:13:50.782 [main] INFO  Models.Flat - User add new appliance to flat
+20:13:50.783 [main] INFO  Models.Flat - User try add socket
+20:13:50.783 [main] INFO  Models.Flat - User add socket
+20:13:50.783 [main] INFO  Models.Flat - User try add socket
+20:13:50.783 [main] INFO  Models.Flat - User add socket
+20:13:50.783 [main] INFO  Models.Flat - User try add socket
+20:13:50.783 [main] INFO  Models.Flat - User add socket
+20:13:50.783 [main] INFO  Models.Flat - User try add socket
+20:13:50.783 [main] INFO  Models.Flat - User add socket
+20:13:50.783 [main] INFO  Models.Flat - User try add socket
+20:13:50.783 [main] INFO  Models.Flat - User add socket
+20:13:50.783 [main] INFO  Models.Flat - User try add socket
+20:13:50.783 [main] INFO  Models.Flat - User add socket
+20:13:50.783 [main] INFO  Models.Flat - User try add socket
+20:13:50.783 [main] INFO  Models.Flat - User add socket
+20:13:50.783 [main] INFO  Models.Flat - User sort appliances
+20:14:02.792 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Iron
+20:14:02.795 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Fridge
+20:14:02.795 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.LEDStripLight
+20:14:02.795 [main] INFO  Models.Flat - User try to add new appliance
+20:14:02.796 [main] INFO  Models.Flat - User add new appliance to flat
+20:14:02.796 [main] INFO  Models.Flat - User try to add new appliance
+20:14:02.796 [main] INFO  Models.Flat - User add new appliance to flat
+20:14:02.796 [main] INFO  Models.Flat - User try to add new appliance
+20:14:02.796 [main] INFO  Models.Flat - User add new appliance to flat
+20:14:02.797 [main] INFO  Models.Flat - User try add socket
+20:14:02.797 [main] INFO  Models.Flat - User add socket
+20:14:02.797 [main] INFO  Models.Flat - User try add socket
+20:14:02.797 [main] INFO  Models.Flat - User add socket
+20:14:02.797 [main] INFO  Models.Flat - User try add socket
+20:14:02.797 [main] INFO  Models.Flat - User add socket
+20:14:02.797 [main] INFO  Models.Flat - User try add socket
+20:14:02.797 [main] INFO  Models.Flat - User add socket
+20:14:02.797 [main] INFO  Models.Flat - User try add socket
+20:14:02.797 [main] INFO  Models.Flat - User add socket
+20:14:02.797 [main] INFO  Models.Flat - User try add socket
+20:14:02.798 [main] INFO  Models.Flat - User add socket
+20:14:02.798 [main] INFO  Models.Flat - User try add socket
+20:14:02.798 [main] INFO  Models.Flat - User add socket
+20:14:02.798 [main] INFO  Models.Flat - User sort appliances
+20:15:58.081 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Iron
+20:15:58.084 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.Fridge
+20:15:58.084 [main] INFO  Models.Abstractions.ElectricalAppliance - Creating new class Models.LEDStripLight
+20:15:58.084 [main] INFO  Models.Flat - User try to add new appliance
+20:15:58.085 [main] INFO  Models.Flat - User add new appliance to flat
+20:15:58.085 [main] INFO  Models.Flat - User try to add new appliance
+20:15:58.085 [main] INFO  Models.Flat - User add new appliance to flat
+20:15:58.085 [main] INFO  Models.Flat - User try to add new appliance
+20:15:58.085 [main] INFO  Models.Flat - User add new appliance to flat
+20:15:58.086 [main] INFO  Models.Flat - User try add socket
+20:15:58.086 [main] INFO  Models.Flat - User add socket
+20:15:58.086 [main] INFO  Models.Flat - User try add socket
+20:15:58.086 [main] INFO  Models.Flat - User add socket
+20:15:58.086 [main] INFO  Models.Flat - User try add socket
+20:15:58.086 [main] INFO  Models.Flat - User add socket
+20:15:58.086 [main] INFO  Models.Flat - User try add socket
+20:15:58.086 [main] INFO  Models.Flat - User add socket
+20:15:58.086 [main] INFO  Models.Flat - User try add socket
+20:15:58.086 [main] INFO  Models.Flat - User add socket
+20:15:58.086 [main] INFO  Models.Flat - User try add socket
+20:15:58.087 [main] INFO  Models.Flat - User add socket
+20:15:58.087 [main] INFO  Models.Flat - User try add socket
+20:15:58.087 [main] INFO  Models.Flat - User add socket
+20:15:58.087 [main] INFO  Models.Flat - User try to get appliances by power

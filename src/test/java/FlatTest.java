@@ -72,4 +72,19 @@ public class FlatTest {
         flat.removeSocket(4);
         assertThat(flat.countSockets(), is(6));
     }
+
+    @Test
+    public void whenSortAppliancesCheckSorting(){
+        flat.sortAppliances();
+        assertThat(flat.getElectricalAppliance(0).getPower(), is(120));
+        assertThat(flat.getElectricalAppliance(1).getPower(), is(560));
+        assertThat(flat.getElectricalAppliance(2).getPower(), is(3200));
+
+    }
+
+    @Test
+    public void whenGetAppliancesByPowerCheckQuantity(){
+        var appliances = flat.getElectricalAppliancesByPower(500, 8000);
+        assertThat(appliances.size(), is(2));
+    }
 }
